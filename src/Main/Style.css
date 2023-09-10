@@ -1,0 +1,39 @@
+.class_div{
+    height: 35vh;
+    width: 40vw;
+    background-color: cadetblue;
+    border: 2px solid gray;
+    position: absolute;
+    top: 50%;
+    left: 5%;
+}
+
+.Func_div{
+    height: 35vh;
+    width: 40vw;
+    background-color: cadetblue;
+    border: 2px solid gray;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+.Button1{
+    height: 9vh;
+    width: 20vw;
+    background-color: cadetblue;
+    border: 2px solid gray;
+    position: absolute;
+    top: 30%;
+    left: 60%;
+
+}
+.Button2{
+    height: 9vh;
+    width: 20vw;
+    background-color: cadetblue;
+    border: 2px solid gray;
+    position: absolute;
+    top: 30%;
+    left: 20%;
+}
