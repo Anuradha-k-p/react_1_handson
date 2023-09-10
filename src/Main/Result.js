@@ -6,7 +6,7 @@ import "./Style.css"
 
 
 
-class Button_one extends Component{
+class Buttonone extends Component{
     state = {
         btn1: true,
       };
@@ -29,7 +29,7 @@ class Button_one extends Component{
 
  }
 
- export default Button_one
+ export default Buttonone
 
 
 
@@ -37,7 +37,7 @@ class Button_one extends Component{
 
 
 
- class Button_two extends Component{
+ class Buttontwo extends Component{
     state = {
         btn2: true,
       };
@@ -60,4 +60,4 @@ class Button_one extends Component{
 
  }
 
- export {Button_two}
+ export {Buttontwo}
